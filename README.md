@@ -22,6 +22,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/bernardxf)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Bernardxf)
 
+<h3 align="left">Stats:</h3>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardxf&show_icons=true&locale=en&layout=compact" alt="bernardxf" />
   
