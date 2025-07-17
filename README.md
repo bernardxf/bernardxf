@@ -1,9 +1,9 @@
-[![Bernardxf's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardxf&theme=radical&show_icons=true)](https://github.com/bernardxf/github-readme-stats)
+
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/bernardxf)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bernardxf/)
 
-<h3 align="left">Languages and Tools:</h3>\
+<h3 align="left">Languages and Tools:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -22,4 +22,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/bernardxf)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Bernardxf)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardxf&show_icons=true&locale=en&layout=compact" alt="bernardxf" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardxf&show_icons=true&locale=en&layout=compact" alt="bernardxf" />
+  
+  [![Bernardxf's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardxf&theme=radical&show_icons=true)](https://github.com/bernardxf/github-readme-stats)
+</p>
